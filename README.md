@@ -16,7 +16,6 @@ You can click the Preview link to take a look at your changes.
 #### https://hi-tecoils.com.au/
 #### https://onestopbatteryshop.com.au/
 #### https://ohmairenergy.com/
-#### http://sydneysound.esy.es/
 #### http://wiseconsulting.com.au/
 #### https://www.kazproperty.com.au/
 #### https://www.lawcorporation.com.au/
@@ -28,3 +27,4 @@ You can click the Preview link to take a look at your changes.
 #### https://vpatel071997.github.io/aquatic-centre/
 #### https://vpatel071997.github.io/minimalism/
 #### https://vpatel071997.github.io/mumbaikar/
+#### http://sydneysound.esy.es/

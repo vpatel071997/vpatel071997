@@ -23,6 +23,12 @@ You can click the Preview link to take a look at your changes.
 
 ### http://wiseconsulting.com.au/
 
+### https://www.kazproperty.com.au/
+
+### https://www.lawcorporation.com.au/
+
+### https://www.kazprivate.com.au/
+
 ### https://vpatel071997.github.io/vpatel-commemoration/
 
 ### https://vpatel071997.github.io/Grand-Pacific-Drive/
@@ -32,9 +38,3 @@ You can click the Preview link to take a look at your changes.
 ### https://vpatel071997.github.io/minimalism/
 
 ### https://vpatel071997.github.io/mumbaikar/
-
-### https://www.kazproperty.com.au/
-
-### https://www.lawcorporation.com.au/
-
-### https://www.kazprivate.com.au/

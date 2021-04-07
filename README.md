@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vpatel071997
-- 👀 I’m interested in Full-Stack Website development & Animation
-- 🌱 I’m currently learning Computer Science specialised in Artificial Intelligence
+- 👋 Hi, I’m @vpatel071997 (Vaibhav)
+- 👀 I’m interested in Software / Web System Development & Animation
+- 🌱 I’m currently learning Computer Science specialising in Artificial Intelligence
 - 💞️ I’m looking to collaborate on Powerful realworld web apps
 - 📫 Let's Connect: https://vpatel.design
 

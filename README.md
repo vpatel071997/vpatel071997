@@ -2,7 +2,17 @@
 - 👀 I’m interested in Software / Web System Development & Animation
 - 🌱 I’m currently learning Computer Science specialising in Artificial Intelligence
 - 💞️ I’m looking to collaborate on Powerful realworld web apps
-- 📫 Let's Connect: https://vpatel.design
+
+# 📫 Let's Connect:
+
+#### Website:      https://vpatel.design
+
+#### LinkedIn:     https://www.linkedin.com/in/vaibhavpatel-info/
+#### HackerRank:   https://www.hackerrank.com/vpatel071997
+#### CodeAcademy:  https://www.codecademy.com/profiles/vpatel.design
+
+#### Instagram:    https://www.instagram.com/vpatel.design/
+#### Behance:      https://www.behance.net/vpatel071997/
 
 <!---
 vpatel071997/vpatel071997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

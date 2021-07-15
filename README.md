@@ -35,6 +35,15 @@ You can click the Preview link to take a look at your changes.
 #### - https://communitykidsworkshops.org.au/
 
 ### Some of my personal projects:
+#### Node.js
 #### - https://bssydney.herokuapp.com/
 #### - https://shop-vpatel-design.herokuapp.com/
 #### - https://my-blog-vpatel.herokuapp.com/
+
+#### Ui Designs:
+#### - https://minimalism-kappa.vercel.app/
+#### - https://mumbaikar.vercel.app/
+#### - https://vpatel-commemoration.vercel.app/
+#### - https://grand-pacific-drive.vercel.app/
+#### - https://aquatic-centre.vercel.app/
+

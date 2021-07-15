@@ -35,7 +35,10 @@ You can click the Preview link to take a look at your changes.
 #### - https://communitykidsworkshops.org.au/
 
 ### Some of my personal projects:
+##### - Node.js Based Project, creating dynamic content using json file as data storage:
 #### - https://bssydney.herokuapp.com/
-#### - http://sydneysound.esy.es/
+##### - MERN Stack Projects:
+##### - A complete E-Commerce platform
 #### - https://shop-vpatel-design.herokuapp.com/
+##### - A blog app communicating with mongo-db to fetch articles and comments as viewer's thoughts
 #### - https://vpatel-blog.herokuapp.com/

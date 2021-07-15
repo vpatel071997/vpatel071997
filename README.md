@@ -37,4 +37,4 @@ You can click the Preview link to take a look at your changes.
 ### Some of my personal projects:
 #### - https://bssydney.herokuapp.com/
 #### - https://shop-vpatel-design.herokuapp.com/
-#### - https://vpatel-my-blog.herokuapp.com/
+#### - https://my-blog-vpatel.herokuapp.com/

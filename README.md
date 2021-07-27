@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 ### Some of my personal projects:
 #### Node.js
 #### - https://bssydney.herokuapp.com/
-#### - https://shop-vpatel-design.herokuapp.com/
+#### - https://shop-vpatel.herokuapp.com/
 #### - https://vpatel-my-blog.herokuapp.com/
 
 #### Ui Designs:

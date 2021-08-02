@@ -38,7 +38,6 @@ You can click the Preview link to take a look at your changes.
 #### Node.js
 #### - https://bssydney.herokuapp.com/
 #### - https://shop-vpatel.herokuapp.com/
-#### - https://vpatel-my-blog.herokuapp.com/
 
 #### Ui Designs:
 #### - https://minimalism-kappa.vercel.app/

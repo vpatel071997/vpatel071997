@@ -43,7 +43,6 @@ You can click the Preview link to take a look at your changes.
 #### Ui Designs:
 #### - https://minimalism-kappa.vercel.app/
 #### - https://mumbaikar.vercel.app/
-#### - https://vpatel-commemoration.vercel.app/
 #### - https://grand-pacific-drive.vercel.app/
 #### - https://aquatic-centre.vercel.app/
 

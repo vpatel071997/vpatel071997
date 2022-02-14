@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @vpatel071997 (Vaibhav)
-- 👀 I’m interested in Software / Web System Development & Animation
-- 🌱 I’m currently learning Computer Science specialising in Artificial Intelligence
-- 💞️ I’m looking to collaborate on Powerful realworld web apps
+- 👋 Hi, I’m Vaibhav, a Software Engineer at Boeing.
 
 # 📫 Let's Connect:
 

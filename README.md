@@ -1,13 +1,8 @@
 - 👋 Hi, I’m Vaibhav, a Software Engineer at Boeing.
 
 # 📫 Let's Connect:
-
 #### - Website:      https://vpatel.design
-
 #### - LinkedIn:     https://www.linkedin.com/in/vaibhavpatel-info/
-#### - HackerRank:   https://www.hackerrank.com/vpatel071997
-#### - CodeAcademy:  https://www.codecademy.com/profiles/vpatel.design
-
 #### - Instagram:    https://www.instagram.com/vpatel.design/
 #### - Behance:      https://www.behance.net/vpatel071997/
 

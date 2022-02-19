@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vaibhav (vpatel071997)
+👋 Hi, I’m Vaibhav (vpatel071997)
 
 # 📫 Let's Connect:
 #### - Website:      https://vpatel.design

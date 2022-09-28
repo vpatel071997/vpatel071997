@@ -1,6 +1,6 @@
 👋 Hi, I’m Vaibhav (vpatel071997)
 
-# 📫 Let's Connect:
+## 📫 Let's Connect:
 #### - Website:      https://vpatel.design
 #### - LinkedIn:     https://www.linkedin.com/in/vaibhavpatel-info/
 #### - Instagram:    https://www.instagram.com/vpatel.design/
@@ -14,10 +14,9 @@ You can click the Preview link to take a look at your changes.
 #### Gist page: https://gist.github.com/vpatel071997
 #
 
-# Projects that i've worked on:
+## Projects that i've worked on:
 
 ### Some of my industrial projects:
-#### - https://vpatel.design
 #### - https://hi-tecoils.com.au/
 #### - https://onestopbatteryshop.com.au/
 #### - https://ohmairenergy.com/

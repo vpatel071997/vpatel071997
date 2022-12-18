@@ -29,11 +29,6 @@ You can click the Preview link to take a look at your changes.
 #### - https://communitykidsworkshops.org.au/
 
 ### Some of my personal projects:
-#### Node.js
-#### - https://bssydney.herokuapp.com/
-#### - https://shop-vpatel.herokuapp.com/
-
-#### Ui Designs:
 #### - https://mumbaikar.vercel.app/
 #### - https://aquatic-centre.vercel.app/
 #### - https://grand-pacific-drive.vercel.app/

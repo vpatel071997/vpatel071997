@@ -27,14 +27,8 @@ You can click the Preview link to take a look at your changes.
 #### - https://communitykidsworkshops.org.au/
 #### - https://shaadibaraatco.com/
 
-### Bytesb.Studio:
-#### - https://bytesb.studio/
-#### - http://tilakdarji.design/
-#### - https://niravajudia.com/ <-> https://unrealhindi.com/
-
 ### Some of my personal projects:
 #### - https://mumbaikar.vercel.app/
 #### - https://aquatic-centre.vercel.app/
 #### - https://grand-pacific-drive.vercel.app/
 #### - https://minimalism-sigma.vercel.app/
-

@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 #### - https://shaadibaraatco.com/
 
 ### Some of my personal projects:
+#### - https://qri-card.vercel.app
 #### - https://mumbaikar.vercel.app/
 #### - https://aquatic-centre.vercel.app/
 #### - https://grand-pacific-drive.vercel.app/

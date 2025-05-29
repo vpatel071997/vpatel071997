@@ -7,7 +7,7 @@
 
 | | | | | | |
 |-|-|-|-|-|-|
-| [VCard]([https://vpatel.design](https://qri-card.vercel.app)) | [Mumbaikar](https://mumbaikar.vercel.app/) | [Instagram]( https://www.instagram.com/vpatel.design/) | [Aquatic Center](https://aquatic-centre.vercel.app/) | [Grand Pacific](https://grand-pacific-drive.vercel.app/) | [Minimalism](https://minimalism-sigma.vercel.app/) |
+| [VCard](https://qri-card.vercel.app) | [Mumbaikar](https://mumbaikar.vercel.app/) | [Instagram]( https://www.instagram.com/vpatel.design/) | [Aquatic Center](https://aquatic-centre.vercel.app/) | [Grand Pacific](https://grand-pacific-drive.vercel.app/) | [Minimalism](https://minimalism-sigma.vercel.app/) |
 <!---
 vpatel071997/vpatel071997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -5,6 +5,7 @@
 |-|-|-|-|
 | [Portfolio](https://vpatel.design) | [Linkedin]( https://www.linkedin.com/in/vaibhavpatel-info/) | [Instagram]( https://www.instagram.com/vpatel.design/) | [Behance](https://www.behance.net/vpatel071997/) |
 
+### Personal Projects:
 | | | | | | |
 |-|-|-|-|-|-|
 | [VCard](https://qri-card.vercel.app) | [Mumbaikar](https://mumbaikar.vercel.app/) | [Instagram]( https://www.instagram.com/vpatel.design/) | [Aquatic Center](https://aquatic-centre.vercel.app/) | [Grand Pacific](https://grand-pacific-drive.vercel.app/) | [Minimalism](https://minimalism-sigma.vercel.app/) |

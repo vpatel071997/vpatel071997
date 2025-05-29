@@ -1,11 +1,13 @@
 👋 Hi, I’m Vaibhav (vpatel071997)
 
 ## 📫 Let's Connect:
-#### - Website:      https://vpatel.design
-#### - LinkedIn:     https://www.linkedin.com/in/vaibhavpatel-info/
-#### - Instagram:    https://www.instagram.com/vpatel.design/
-#### - Behance:      https://www.behance.net/vpatel071997/
+| | | | |
+|-|-|-|-|
+| [Portfolio](https://vpatel.design) | [Linkedin]( https://www.linkedin.com/in/vaibhavpatel-info/) | [Instagram]( https://www.instagram.com/vpatel.design/) | [Behance](https://www.behance.net/vpatel071997/) |
 
+| | | | | | |
+|-|-|-|-|-|-|
+| [VCard]([https://vpatel.design](https://qri-card.vercel.app)) | [Mumbaikar](https://mumbaikar.vercel.app/) | [Instagram]( https://www.instagram.com/vpatel.design/) | [Aquatic Center](https://aquatic-centre.vercel.app/) | [Grand Pacific](https://grand-pacific-drive.vercel.app/) | [Minimalism](https://minimalism-sigma.vercel.app/) |
 <!---
 vpatel071997/vpatel071997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -26,10 +28,3 @@ You can click the Preview link to take a look at your changes.
 #### - https://kazincursions.com.au/
 #### - https://communitykidsworkshops.org.au/
 #### - https://shaadibaraatco.com/
-
-### Some of my personal projects:
-#### - https://qri-card.vercel.app
-#### - https://mumbaikar.vercel.app/
-#### - https://aquatic-centre.vercel.app/
-#### - https://grand-pacific-drive.vercel.app/
-#### - https://minimalism-sigma.vercel.app/

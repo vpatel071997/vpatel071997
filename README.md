@@ -3,7 +3,7 @@
 ## 📫 Let's Connect:
 | | | | |
 |-|-|-|-|
-| [Portfolio](https://vpatel.design) | [Linkedin]( https://www.linkedin.com/in/vaibhavpatel-info/) | [Instagram]( https://www.instagram.com/vpatel.design/) | [Behance](https://www.behance.net/vpatel071997/) |
+| [Portfolio](https://vpatel.au) | [Linkedin]( https://www.linkedin.com/in/vaibhavpatel-info/) | [Instagram]( https://www.instagram.com/vpatel.design/) | [Behance](https://www.behance.net/vpatel071997/) |
 
 ### Personal Projects:
 | | | | | | |

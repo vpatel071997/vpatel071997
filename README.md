@@ -5,7 +5,7 @@
 |-|-|-|-|
 | [Portfolio](https://vpatel.au) | [Linkedin]( https://www.linkedin.com/in/vaibhavpatel-info/) | [Instagram]( https://www.instagram.com/vpatel.design/) | [Behance](https://www.behance.net/vpatel071997/) |
 
-### Personal Projects:
+### Projects:
 | | | | | | | |
 |-|-|-|-|-|-|-|
 | [VCard](https://qri-card.vercel.app) | [Mumbaikar](https://mumbaikar.vercel.app/) | [Aquatic Center](https://aquatic-centre.vercel.app/) | [Grand Pacific](https://grand-pacific-drive.vercel.app/) | [Minimalism](https://minimalism-sigma.vercel.app/) | [Dreamscape](https://dreamscape-two.vercel.app/) | [Synivo](https://synivo.tech/) |
@@ -16,17 +16,3 @@ You can click the Preview link to take a look at your changes.
 #
 #### Gist page: https://gist.github.com/vpatel071997
 #
-
-## Projects that i've worked on:
-
-### Some of my industrial projects:
-#### - https://hi-tecoils.com.au/
-#### - https://onestopbatteryshop.com.au/
-#### - https://kazproperty.com.au/
-#### - https://lawcorporation.com.au/
-#### - https://kazprivate.com.au/
-#### - https://possumschildcare.com.au/
-#### - https://kazincursions.com.au/
-#### - https://communitykidsworkshops.org.au/
-#### - https://shaadibaraatco.com/
-#### - https://www.divineairau.com/

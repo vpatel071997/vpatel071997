@@ -6,8 +6,8 @@
 | [Freelancing](https://synivo.tech/) | [Linkedin]( https://www.linkedin.com/in/vaibhavpatel-info/) | [Instagram]( https://www.instagram.com/vpatel.design/) | [Behance](https://www.behance.net/vpatel071997/) |
 
 ### Projects:
-| | | | | | |
-|-|-|-|-|-|-|
+| | | | | | | |
+|-|-|-|-|-|-|-|
 | [VCard](https://qri-card.vercel.app) | [Mumbaikar](https://mumbaikar.vercel.app/) | [Aquatic Center](https://aquatic-centre.vercel.app/) | [Grand Pacific](https://grand-pacific-drive.vercel.app/) | [Minimalism](https://minimalism-sigma.vercel.app/) | [Dreamscape](https://dreamscape-two.vercel.app/) | [3D Web View](https://threed-web-view.vercel.app/) |
 
 <!---

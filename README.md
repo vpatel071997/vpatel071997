@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi there, I'm Vaibhav!
+# Hi there, I'm Vaibhav!
 
-### 🚀 Software Engineer · 🎨 Designer · 💼 Strategic Freelancer
+### Software Engineer · Designer · Strategic Freelancer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Crafting+distinctive+brand+identities;Building+custom+digital+solutions;Delivering+exceptional+quality;Creating+meaningful+value" alt="Typing SVG" />
 
@@ -10,13 +10,13 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I envision, design, and build **distinctive brand identities** and **custom digital solutions** for both cultural and corporate projects. As a strategic design and development freelancer, I'm dedicated to delivering exceptional quality and creating meaningful value.
 
 <br>
 
-## 🛠️ What I Do
+## What I Do
 
 <div align="center">
 
@@ -28,7 +28,7 @@ I envision, design, and build **distinctive brand identities** and **custom digi
 
 <br>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -43,7 +43,7 @@ I envision, design, and build **distinctive brand identities** and **custom digi
 
 <br>
 
-## 💼 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -63,7 +63,7 @@ I envision, design, and build **distinctive brand identities** and **custom digi
 
 <br>
 
-## 🏢 Industrial Projects
+## Industrial Projects
 
 <div align="center">
 
@@ -84,7 +84,7 @@ I envision, design, and build **distinctive brand identities** and **custom digi
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -97,7 +97,7 @@ I envision, design, and build **distinctive brand identities** and **custom digi
 
 <br>
 
-## 📝 Gists
+## Gists
 
 🔗 Explore my code snippets and utilities on [**GitHub Gists**](https://gist.github.com/vpatel071997)
 
@@ -107,7 +107,7 @@ I envision, design, and build **distinctive brand identities** and **custom digi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vpatel071997&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
-### 💬 Let's build something meaningful together!
+### Let's build something meaningful together!
 
 </div>
 

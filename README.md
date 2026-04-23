@@ -79,6 +79,7 @@ I envision, design, and build **distinctive brand identities** and **custom digi
 | **Skyward Homes** | Construction | [🔗](https://skyward-homes.com.au/) |
 | **Saphyre Creative** | Creative Agency | [🔗](https://saphyrecreative.com/) |
 | **Pro Workshop Gear** | Industrial Supply | [🔗](https://www.proworkshopgear.com.au/) |
+| **Emerald Projects** | Renovation | [🔗](http://emeraldprojects.com.au/) |
 
 </div>
 

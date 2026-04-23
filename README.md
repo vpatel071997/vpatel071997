@@ -9,7 +9,7 @@ A Software Engineer, I envision, design, and build distinctive brand identities 
 ## Find me:
 | | | | |
 |-|-|-|-|
-| [Website](https://vpatel.au) | [Linkedin]( https://www.linkedin.com/in/vaibhavpatel-info/) | [Instagram]( https://www.instagram.com/vpatel.design/) | [Behance](https://www.behance.net/vpatel071997/) | [UpWork](https://www.upwork.com/freelancers/~01b8215ed90ebfa4ad) | [Fiverr](https://www.fiverr.com/vaibhavsynivo/buying?source=avatar_menu_profile)
+| [Website](https://vpatel.au) | [Linkedin]( https://www.linkedin.com/in/vaibhavpatel-info/) | [Instagram]( https://www.instagram.com/vpatel.au/) | [Behance](https://www.behance.net/vpatel071997/) | [UpWork](https://www.upwork.com/freelancers/~01b8215ed90ebfa4ad) | [Fiverr](https://www.fiverr.com/vaibhavsynivo/buying?source=avatar_menu_profile)
 
 ## Projects:
 | | | | | |

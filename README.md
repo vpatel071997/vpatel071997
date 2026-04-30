@@ -58,6 +58,7 @@ I envision, design, and build **distinctive brand identities** and **custom digi
 | 🧊 **3D Web View** | Interactive 3D experience | [🔗 Visit](https://threed-web-view.vercel.app/) |
 | 🏥 **Medical App** | Healthcare mobile app | [🔗 Visit](https://bit.ly/demo-app-vpatelau) |
 | 💊 **Medical SaaS** | Healthcare platform | [🔗 Visit](https://bit.ly/demo-web-vpatel-au) |
+| 💹 **Finovate** | Fintech Company Website | [🔗 Visit](https://bytesb.studio/) |
 
 </div>
 

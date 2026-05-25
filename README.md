@@ -70,6 +70,7 @@ I envision, design, and build **distinctive brand identities** and **custom digi
 
 | Company | Sector | Link |
 |:--------|:-------|:----:|
+| **Synivo** | Digital Studio | [🔗](https://www.synivo.tech/) |
 | **Hi-Tec Oils** | Automotive | [🔗](https://hi-tecoils.com.au/) |
 | **Hi-Tech Batteries** | Energy | [🔗](https://hi-tecbatteries.com.au/) |
 | **One Stop Battery Shop** | Retail | [🔗](https://onestopbatteryshop.com.au/) |
@@ -90,9 +91,6 @@ I envision, design, and build **distinctive brand identities** and **custom digi
 ## GitHub Stats
 
 <div align="center">
-
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpatel071997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vpatel071997&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vpatel071997&theme=tokyonight&hide_border=true)
 

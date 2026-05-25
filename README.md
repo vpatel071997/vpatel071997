@@ -81,7 +81,7 @@ I envision, design, and build **distinctive brand identities** and **custom digi
 | **Saphyre Creative** | Creative Agency | [🔗](https://saphyrecreative.com/) |
 | **Pro Workshop Gear** | Industrial Supply | [🔗](https://www.proworkshopgear.com.au/) |
 | **Emerald Projects** | Renovation | [🔗](http://emeraldprojects.com.au/) |
-| **Pramukh GTS** | Grocery Supplier Website| [🔗 Visit](https://www.pramukhgts.com/) |
+| **Pramukh GTS** | Grocery Supplier Website| [🔗](https://www.pramukhgts.com/) |
 
 </div>
 

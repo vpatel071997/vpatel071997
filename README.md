@@ -59,7 +59,6 @@ I envision, design, and build **distinctive brand identities** and **custom digi
 | 🏥 **Medical App** | Healthcare mobile app | [🔗 Visit](https://bit.ly/demo-app-vpatelau) |
 | 💊 **Medical SaaS** | Healthcare platform | [🔗 Visit](https://bit.ly/demo-web-vpatel-au) |
 | 💹 **Finovate** | Fintech Company Website | [🔗 Visit](https://bytesb.studio/) |
-| 🥗 **Pramukh GTS** | Grocery Supplier Website| [🔗 Visit](https://www.pramukhgts.com/) |
 
 </div>
 
@@ -82,6 +81,7 @@ I envision, design, and build **distinctive brand identities** and **custom digi
 | **Saphyre Creative** | Creative Agency | [🔗](https://saphyrecreative.com/) |
 | **Pro Workshop Gear** | Industrial Supply | [🔗](https://www.proworkshopgear.com.au/) |
 | **Emerald Projects** | Renovation | [🔗](http://emeraldprojects.com.au/) |
+| **Pramukh GTS** | Grocery Supplier Website| [🔗 Visit](https://www.pramukhgts.com/) |
 
 </div>
 

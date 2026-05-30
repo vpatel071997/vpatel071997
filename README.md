@@ -56,7 +56,7 @@ I envision, design, and build **distinctive brand identities** and **custom digi
 | ⚪ **Minimalism** | Clean design showcase | [🔗 Visit](https://minimalism-sigma.vercel.app/) |
 | 🌌 **Dreamscape** | Creative visual site | [🔗 Visit](https://dreamscape-two.vercel.app/) |
 | 🧊 **3D Web View** | Interactive 3D experience | [🔗 Visit](https://threed-web-view.vercel.app/) |
-| 🏥 **Medical App** | Healthcare mobile app | [🔗 Visit](https://demo-app.synivo.com.au/) |
+| 🏥 **Medical App** | Healthcare mobile app | [🔗 Visit](https://project-38cml.vercel.app/) |
 | 💊 **Medical SaaS** | Healthcare platform | [🔗 Visit](https://demo-web.synivo.com.au/) |
 | 💹 **Finovate** | Fintech Company Website | [🔗 Visit](https://bytesb.studio/) |
 

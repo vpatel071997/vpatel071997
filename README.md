@@ -77,7 +77,7 @@ I envision, design, and build **distinctive brand identities** and **custom digi
 | **Kaz Properties** | Real Estate | [🔗](https://www.kazproperty.com.au/) |
 | **Kaz Law** | Legal | [🔗](https://www.lawcorporation.com.au/) |
 | **Community Kids Workshops** | Education | [🔗](https://communitykidsworkshops.org.au/) |
-| **OHM Air Energy** | Renewable Energy | [🔗](https://ohmairenergy.com/) |
+| **OHM Air Energy** | Industrial | [🔗](https://ohmairenergy.com/) |
 | **Skyward Homes** | Construction | [🔗](https://skyward-homes.com.au/) |
 | **Saphyre Creative** | Creative Agency | [🔗](https://saphyrecreative.com/) |
 | **Pro Workshop Gear** | Industrial Supply | [🔗](https://www.proworkshopgear.com.au/) |

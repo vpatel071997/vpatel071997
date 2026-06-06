@@ -58,7 +58,8 @@ I envision, design, and build **distinctive brand identities** and **custom digi
 | 🧊 **3D Web View** | Interactive 3D experience | [🔗 Visit](https://threed-web-view.vercel.app/) |
 | 🏥 **Medical App** | Healthcare mobile app | [🔗 Visit](https://project-38cml.vercel.app/) |
 | 💊 **Medical SaaS** | Healthcare platform | [🔗 Visit](https://project-234e7.vercel.app/) |
-| 💹 **Finovate** | Fintech Company Website | [🔗 Visit](https://bytesb.studio/) |
+| 💹 **Finovate** | Fintech Company website | [🔗 Visit](https://bytesb.studio/) |
+| 🚄 **SEQ Live** | Real-Time Transport analysis | [🔗 Visit](https://live.synivo.com.au) |
 
 </div>
 

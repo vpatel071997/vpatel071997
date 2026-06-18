@@ -59,7 +59,7 @@ I envision, design, and build **distinctive brand identities** and **custom digi
 | 🏥 **Medical App** | Healthcare mobile app | [🔗 Visit](https://project-38cml.vercel.app/) |
 | 💊 **Medical SaaS** | Healthcare platform | [🔗 Visit](https://project-234e7.vercel.app/) |
 | 💹 **Finovate** | Fintech Company website | [🔗 Visit](https://bytesb.studio/) |
-| 🚄 **SEQ Live** | Real-Time Transport analysis | [🔗 Visit](https://live.synivo.com.au) |
+| 🚄 **AU Live** | Real-Time Transport analysis | [🔗 Visit](https://live.synivo.com.au) |
 
 </div>
 

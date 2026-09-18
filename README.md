@@ -17,3 +17,17 @@ You can click the Preview link to take a look at your changes.
 #
 #### Gist page: https://gist.github.com/vpatel071997
 #
+
+## Projects that i've worked on:
+
+### Some of my industrial projects:
+#### - https://hi-tecoils.com.au/
+#### - https://onestopbatteryshop.com.au/
+#### - https://kazproperty.com.au/
+#### - https://lawcorporation.com.au/
+#### - https://kazprivate.com.au/
+#### - https://possumschildcare.com.au/
+#### - https://kazincursions.com.au/
+#### - https://communitykidsworkshops.org.au/
+#### - https://shaadibaraatco.com/
+#### - https://www.divineairau.com/

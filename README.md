@@ -53,4 +53,4 @@ Freelance Software Engineer, Founder, and Digital Creator.
 - **[Beyond Bicycles](https://beyond-bicycles.vercel.app/)** — E-commerce frontend concept featuring product filtering and modern layout paradigms.
 - **[VPatel Graphic AU](https://vpatel-graphic-au.vercel.app/)** — Interactive graphic design portfolio deployment.
 - **[Live Synivo](https://live.synivo.com.au/)** — Live rail traffic in Australia and Strike prediction using AI.
-- **[Mobile APP](https://project-234e7.vercel.app/) & [Dashboard](https://project-38cml.vercel.app/)** — Medical App system.
+- **[Dashboard](https://project-234e7.vercel.app/) & [Mobile App](https://project-38cml.vercel.app/)** — Medical App system.

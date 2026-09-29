@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 ## Projects that i've worked on:
 
 ### Some of my industrial projects:
+#### - https://vpatel.au/
 #### - https://hi-tecoils.com.au/
 #### - https://onestopbatteryshop.com.au/
 #### - https://kazproperty.com.au/
@@ -30,4 +31,25 @@ You can click the Preview link to take a look at your changes.
 #### - https://kazincursions.com.au/
 #### - https://communitykidsworkshops.org.au/
 #### - https://shaadibaraatco.com/
-#### - https://www.divineairau.com/
+#### - https://divineairau.com/
+#### - https://synivo.com.au/
+#### - https://pramukhgts.com/
+#### - https://saphyrecreative.com/
+#### - https://skyward-homes.com.au/
+#### - https://emeraldprojects.com.au/
+#### - https://airtekac.com.au/
+
+#### - https://mumbaikar.vercel.app/
+#### - https://aquatic-centre.vercel.app/
+#### - https://grand-pacific-drive.vercel.app/
+#### - https://minimalism-sigma.vercel.app/
+#### - https://vpatel-graphic-au.vercel.app/
+#### - https://dreamscape-two.vercel.app/
+#### - https://threed-web-view.vercel.app/
+
+#### - https://beyond-bicycles.vercel.app/
+#### - http://qr.synivo.com.au/
+#### - https://live.synivo.com.au/
+
+#### - https://project-234e7.vercel.app/
+#### - https://project-38cml.vercel.app/

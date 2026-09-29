@@ -52,5 +52,5 @@ Freelance Software Engineer, Founder, and Digital Creator.
 - **[Minimalism](https://minimalism-sigma.vercel.app/)** — Clean, component-driven design system experiment focusing on typography and whitespace.
 - **[Beyond Bicycles](https://beyond-bicycles.vercel.app/)** — E-commerce frontend concept featuring product filtering and modern layout paradigms.
 - **[VPatel Graphic AU](https://vpatel-graphic-au.vercel.app/)** — Interactive graphic design portfolio deployment.
-- **[Live Synivo](https://live.synivo.com.au/)** — Experimental deployment for live media and streaming integrations.
-- **[Project 234e7](https://project-234e7.vercel.app/) & [Project 38cml](https://project-38cml.vercel.app/)** — Staging environments for custom web app architectures and CI/CD testing.
+- **[Live Synivo](https://live.synivo.com.au/)** — Live rail traffic in Australia and Strike prediction using AI.
+- **[Mobile APP](https://project-234e7.vercel.app/) & [Dashboard](https://project-38cml.vercel.app/)** — Medical App system.
